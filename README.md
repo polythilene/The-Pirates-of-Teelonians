@@ -9,6 +9,4 @@ Source is provided as-is, assets are not included (never ask me about that).
 * Engine Developer: Kurniawan Fitriadi
 * Game Programmer: Andy See
 
-Note: Source is not complete since i was leaving the studio mid-development.
-
 http://www.agame.com/game/pirates-of-teelonians
